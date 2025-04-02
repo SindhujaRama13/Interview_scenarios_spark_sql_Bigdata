@@ -68,7 +68,7 @@
 ```
 #### Solution :- 
 Scala-Spark - <https://github.com/mohankrishna02/interview-scenarios-spark-sql/blob/master/src/pack/Scenerio1.scala> <br>
-PySpark - <https://github.com/mohankrishna02/interview-scenarios-spark-sql/blob/master/Scenerio-1.py>
+PySpark - <https://github.com/SindhujaRama13/Interview_scenarios_spark_sql_Bigdata/blob/main/Scenerio-1.py>
 
 **[⬆ Back to Top](#table-of-contents)**
 
